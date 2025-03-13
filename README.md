@@ -28,10 +28,11 @@ Welcome to my GitHub! I'm a **Java Full Stack Developer** with expertise in **Sp
 - Java (Spring Boot, Hibernate, Microservices, REST APIs)
 - MERN Stack (MongoDB, Express, React, Node.js)
 - React Native for Cross-Platform Mobile Apps
+- Java for Native Android Apps
 
 ### 🔹 **Development Tools & Containerization:**
 - Docker for Containerization
-- Version Control (Git, GitHub, GitLab)
+- Version Control (Git, GitHub)
 
 ### 🔹 **Database & Backend:**
 - PostgreSQL, MySQL, MongoDB
