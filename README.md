@@ -4,6 +4,20 @@
 
 ### 🔹 Passionate Developer | 🔹 Java Full Stack Expert | 🔹 Mobile & Web App Builder | 🔹 GenAI Enthusiast
 
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh445&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh445&show_icons=true&theme=tokyonight" width="48%"/>
+</p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayesh445&theme=tokyonight)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayesh445&theme=tokyo-night)
+
+---
+
 Welcome to my GitHub! I'm a **Java Full Stack Developer** with expertise in **Spring Boot, React, React Native, MERN Stack, Docker, and Generative AI**. I specialize in designing and developing robust applications, ranging from scalable enterprise web solutions to dynamic mobile applications, and exploring the potential of AI-driven solutions.---
 
 ## 📌 Tech Stack & Skills
