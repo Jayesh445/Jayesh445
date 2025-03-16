@@ -51,7 +51,7 @@ Welcome to my GitHub! I'm a **Java Full Stack Developer** with expertise in **Sp
 
 ## 📫 Connect with Me
 
-💼 **LinkedIn:** [Your LinkedIn](www.linkedin.com/in/jayesh-gupta-2544s)  
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jayesh-gupta-2544s)  
 📧 **Email:** jayeshgupta.eng@gmail.com   
 
 ---
