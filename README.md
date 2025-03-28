@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jayesh445&show_icons=true&theme=tokyonight" width="48%"/>
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh445&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh445&theme=tokyonight&layout=compact"/>
 </p>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayesh445&theme=tokyo-night)
