@@ -1,5 +1,3 @@
-# 🌟 **Java Full Stack Developer | Mobile | GenAI Explorer**
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=800&color=0CF0FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+%7C+Next.js+%7C+UI+Animations;Kotlin+Compose+Learner;AI+%26+Backend+Architecture+Enthusiast;Building+Web+%26+Mobile+Experiences">
 </p>
