@@ -91,14 +91,6 @@ Surprisingly… it works sometimes. 😄
 
 ---
 
-# 🔺 **Custom Artistic Divider**
-
-<p align="center">
-  <img src="https://i.imgur.com/3aXhG80.gif" width="700">
-</p>
-
----
-
 # 📊 **GitHub Stats**
 
 <p align="center">
@@ -143,6 +135,4 @@ Surprisingly… it works sometimes. 😄
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Jayesh445&icon=0&color=13" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=Jayesh445&icon=0&color=13)](https://visitcount.itsvg.in)
