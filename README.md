@@ -1,60 +1,148 @@
-# 💻 Java Full Stack Developer 🚀
-
-## 👋 Hey there! I'm Jayesh Gupta
-
-### 🔹 Passionate Developer | 🔹 Java Full Stack Expert | 🔹 Mobile & Web App Builder | 🔹 GenAI Enthusiast
-
----
-
-## 📊 GitHub Stats & Activity
+# 🌟 **Jayesh Gupta — Java Full Stack Developer | Kotlin | GenAI Explorer**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh445&layout=compact&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh445&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=0CF0FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+%7C+Next.js+%7C+UI+Animations;Kotlin+Compose+Learner;AI+%26+Backend+Architecture+Enthusiast;Building+Web+%26+Mobile+Experiences" />
 </p>
+
+---
+
+# 👋 **Hey there! I'm Jayesh**
+
+A passionate **Java + Kotlin full-stack engineer** who loves turning ideas into **clean, fast, and aesthetic digital experiences**.
+From backend systems to mobile UI to GenAI integrations — I enjoy building things that feel *smooth*, *smart*, and *satisfying*.
+
+And yes… I spend too much time perfecting UI animations, but that’s my superpower. ✨
+
+---
+
+# 💫 **About Me**
+
+### 🔭 **I’m currently working on**
+
+* Full-stack apps using **Spring Boot + React + Next.js**
+* Creative UI/UX experiments with **GSAP & Framer Motion**
+
+### 🤝 **I’m looking to collaborate on**
+
+* Java, Kotlin (Compose), React, Node.js projects
+* AI-driven tools or developer productivity systems
+
+### 🧠 **I’m looking for help with**
+
+* Microservices scaling & backend performance
+* Docker, CI/CD, AWS advanced workflows
+
+### 🌱 **I’m currently learning**
+
+* **Jetpack Compose**, Android patterns
+* Generative AI, LangChain, AI workflows
+* System design & scalable architecture
+
+### 💬 **Ask me about**
+
+* Java, Spring Boot, Spring Security
+* React, Next.js, UI animations
+* Clean architecture & backend design
+
+### ⚡ **Fun fact**
+
+My debugging method: talk to code like it's a person.
+Surprisingly… it works sometimes. 😄
+
+---
+
+# 🛠️ **Tech Stack**
+
+### **🚀 Backend & Frameworks**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,kotlin,nodejs,express&theme=dark" />
+</p>
+
+### **🔐 Security**
+
+* **Spring Security**
+* JWT Authentication
+* OAuth2 Basics
+
+### **🎨 Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,html,css,vite&theme=dark" />
+</p>
+
+### **📱 Mobile**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react&theme=dark" />
+</p>
+
+### **🗄 Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+</p>
+
+### **⚙️ DevOps & Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,nginx,linux,aws&theme=dark" />
+</p>
+
+---
+
+# 🔺 **Custom Artistic Divider**
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh445&theme=tokyonight&layout=compact"/>
+  <img src="https://i.imgur.com/3aXhG80.gif" width="700">
 </p>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayesh445&theme=tokyo-night)
+---
+
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh445&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh445&layout=compact&theme=tokyonight" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh445&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh445&theme=tokyo-night" />
+</p>
 
 ---
 
-Welcome to my GitHub! I'm a **Java Full Stack Developer** with expertise in **Spring Boot, React, React Native, MERN Stack, Docker, and Generative AI**. I specialize in designing and developing robust applications, ranging from scalable enterprise web solutions to dynamic mobile applications, and exploring the potential of AI-driven solutions.---
+# 🏆 **GitHub Achievements**
 
-## 📌 Tech Stack & Skills
-
-### 🔹 **Full Stack Development:**
-- Java (Spring Boot, Hibernate, Microservices, REST APIs)
-- MERN Stack (MongoDB, Express, React, Node.js)
-- React Native for Cross-Platform Mobile Apps
-- Java for Native Android Apps
-
-### 🔹 **Development Tools & Containerization:**
-- Docker for Containerization
-- Version Control (Git, GitHub)
-
-### 🔹 **Database & Backend:**
-- PostgreSQL, MySQL, MongoDB
-- RESTful APIs
-
-### 🔹 **Generative AI & Machine Learning:**
-- OpenAI & LangChain Integration
-- AI-driven Chatbots & NLP Models
-- Fine-tuning & Deployment of AI Models
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayesh445&theme=radical&no-bg=false&no-frame=false&margin-w=8" />
+</p>
 
 ---
 
-## 🔥 Featured Repositories
+# ✍️ **Random Dev Quote**
 
-
-
-## 📫 Connect with Me
-
-💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jayesh-gupta-2544s)  
-📧 **Email:** jayeshgupta.eng@gmail.com   
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-Let's build something amazing together! 🚀✨
+# 🌐 **Connect With Me**
 
+<p align="center">
+  <a href="https://linkedin.com/in/jayesh-gupta-2544s"><img style="margin:0 10px" src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:jayeshgupta.eng@gmail.com"><img style="margin:0 10px" src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://x.com/jayesh445"><img style="margin:0 10px" src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="https://instagram.com/jayesh.gpt.7"><img style="margin:0 10px" src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Jayesh445&icon=0&color=13" />
+</p>
