@@ -1,16 +1,15 @@
-🌟 Jayesh Gupta — Java Full Stack Developer | Kotlin | GenAI Explorer
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=0CF0FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;React+%7C+Next.js+%7C+UI+Animations;Android+Developer+(Kotlin+Compose);AI+%26+System+Design+Learner;Building+Web+%26+Mobile+Experiences+🚀"> </p>
-👋 Hey, I'm Jayesh
+🌟 Jayesh Gupta — Java Full Stack Developer | Kotlin | Mobile | GenAI Explorer
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=14F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+%7C+Next.js+%7C+UI+Animations;Kotlin+%7C+Jetpack+Compose+Learner;Building+Web+%26+Mobile+Apps;Exploring+Generative+AI+%26+System+Design;Always+Learning%2C+Always+Creating+🚀"> </p>
 
-A Java + Kotlin full-stack developer who loves creating apps that feel:
+👋 Hey there, I'm Jayesh!
 
-✨ smooth
-⚡ fast
-🎨 aesthetic
+I'm a Java Full-Stack Developer who loves building clean, functional, and aesthetic applications — whether it's
+⚡ high-performance backends,
+⚡ smooth React/Next.js frontends,
+⚡ or clean mobile UI in Kotlin/Compose.
 
-From Spring Boot backends to polished React/Next.js UIs, to mobile apps and AI integrations, I love building things that work beautifully.
-
-And yes — polishing UI animations is absolutely my hobby. 😄
+I enjoy making things that work fast, look good, and feel right.
+And yes… I might spend too much time polishing UI animations (totally worth it). 😄
 
 💫 About Me
 🔭 Currently working on
