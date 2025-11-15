@@ -1,10 +1,10 @@
-🌟 **Jayesh Gupta — Java Full Stack Developer | Kotlin | Mobile | GenAI Explorer**
+#🌟 **Jayesh Gupta — Java Full Stack Developer | Kotlin | Mobile | GenAI Explorer**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=800&color=0CF0FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+%7C+Next.js+%7C+UI+Animations;Kotlin+Compose+Learner;AI+%26+Backend+Architecture+Enthusiast;Building+Web+%26+Mobile+Experiences">
 </p>
 
-👋 **Hey there, I'm Jayesh!**
+##👋 **Hey there, I'm Jayesh!**
 
 I'm a Java Full-Stack Developer who loves building clean, functional, and aesthetic applications — whether it's  
 ⚡ high-performance backends,  
@@ -43,7 +43,7 @@ I debug by staring at the screen until the bug feels guilty and fixes itself.
 
 ---
 
-# 🛠️ **Tech Stack (ALL included — logos + grouped)**
+# 🛠️ **Tech Stack**
 
 ---
 
