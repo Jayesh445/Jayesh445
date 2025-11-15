@@ -1,85 +1,107 @@
-🌟 Jayesh Gupta — Java Full Stack Developer | Kotlin | Mobile | GenAI Explorer
+🌟 **Jayesh Gupta — Java Full Stack Developer | Kotlin | Mobile | GenAI Explorer**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=800&color=0CF0FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+%7C+Next.js+%7C+UI+Animations;Kotlin+Compose+Learner;AI+%26+Backend+Architecture+Enthusiast;Building+Web+%26+Mobile+Experiences">
 </p>
 
-👋 Hey there, I'm Jayesh!
+👋 **Hey there, I'm Jayesh!**
 
-I'm a Java Full-Stack Developer who loves building clean, functional, and aesthetic applications — whether it's
-⚡ high-performance backends,
-⚡ smooth React/Next.js frontends,
+I'm a Java Full-Stack Developer who loves building clean, functional, and aesthetic applications — whether it's  
+⚡ high-performance backends,  
+⚡ smooth React/Next.js frontends,  
 ⚡ or clean mobile UI in Kotlin/Compose.
 
-I enjoy making things that work fast, look good, and feel right.
+I enjoy making things that work fast, look good, and feel right.  
 And yes… I might spend too much time polishing UI animations (totally worth it). 😄
 
-💫 About Me  
-🔭 Currently working on
+---
 
-Full-stack apps powered by Spring Boot + React + Next.js  
-UI magic using GSAP & Framer Motion
+## 💫 **About Me**
 
-🤝 Collaborating on
+### 🔭 **Currently working on**
+- Full-stack apps powered by **Spring Boot + React + Next.js**  
+- UI magic using **GSAP & Framer Motion**
 
-Java, Kotlin (Compose), React, Node.js, AI tools  
-Full-stack or mobile app ideas  
-Developer productivity tools
+### 🤝 **Collaborating on**
+- Java, Kotlin (Compose), React, Node.js, AI tools  
+- Full-stack or mobile app ideas  
+- Developer productivity tools
 
-🌱 Learning
+### 🌱 **Learning**
+- Jetpack Compose  
+- LangChain, AI workflow engineering  
+- System design & scalability patterns
 
-Jetpack Compose  
-LangChain, AI workflow engineering  
-System design & scalablity patterns
+### 💬 **Ask me about**
+- Java + **Spring Boot** + Spring Security  
+- React + Next.js + UI/UX animations  
+- Mobile apps (Kotlin, Compose)  
+- Clean architecture
 
-💬 Ask me about
-
-Java + Spring Boot + Spring Security  
-React + Next.js + UI/UX animations  
-Mobile apps (Kotlin, Compose)  
-Clean architecture
-
-⚡ Fun fact  
+### ⚡ **Fun fact**
 I debug by staring at the screen until the bug feels guilty and fixes itself.
 
-🛠️ Tech Stack (ALL included — logos + grouped)
+---
 
-🚀 Backend & Frameworks
+# 🛠️ **Tech Stack (ALL included — logos + grouped)**
+
+---
+
+### 🚀 **Backend & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,springboot,gradle,maven,kotlin,nodejs,express" />
+  <!-- FIXED + VISIBLE SPRING BOOT ICON -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=kotlin" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=gradle" />
+  <img src="https://skillicons.dev/icons?i=maven" />
 </p>
 
-🔐 Security
+---
+
+### 🔐 **Security**
 <p align="left">
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 </p>
 
-🎨 Frontend
+---
+
+### 🎨 **Frontend**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,vite" />
 </p>
 
-📱 Mobile Development
+---
+
+### 📱 **Mobile Development**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react" />
 </p>
 
-🗄️ Databases
+---
+
+### 🗄️ **Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-⚙️ DevOps & Tools
+---
+
+### ⚙️ **DevOps & Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,nginx,linux,postman,jenkins,githubactions" />
   <img src="https://img.shields.io/badge/Render-4CE0B3?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
-🧩 ORM / Libraries / API Tools
+---
+
+### 🧩 **ORM / Libraries / API Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://img.shields.io/badge/Thymeleaf-005C0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
@@ -87,23 +109,31 @@ I debug by staring at the screen until the bug feels guilty and fixes itself.
   <img src="https://skillicons.dev/icons?i=hibernate" />
 </p>
 
-☁ Cloud & Hosting
+---
+
+### ☁ **Cloud & Hosting**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,firebase" />
 </p>
 
-🧠 AI / ML / GenAI
+---
+
+### 🧠 **AI / ML / GenAI**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge&logo=chainlink&logoColor=white"/>
 </p>
 
-🧰 Other Tools
+---
+
+### 🧰 **Other Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=notion,powerbi" />
 </p>
 
-📊 GitHub Stats
+---
+
+# 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayesh445&show_icons=true&theme=tokyonight" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayesh445&layout=compact&theme=tokyonight" width="48%">
@@ -117,18 +147,23 @@ I debug by staring at the screen until the bug feels guilty and fixes itself.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayesh445&theme=tokyo-night"/>
 </p>
 
-🏆 GitHub Achievements
+---
+
+# 🏆 **GitHub Achievements**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jayesh445&theme=radical&no-bg=false&no-frame=false&margin-w=8" />
 </p>
 
-✍️ Random Dev Quote
+---
+
+# ✍️ **Random Dev Quote**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-🌐 Connect With Me
+---
 
+# 🌐 **Connect With Me**
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1439291576605212775)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jayesh.gpt.7)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayesh.gpt.7)
